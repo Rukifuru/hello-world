@@ -1,2 +1,10 @@
 # hello-world
-First basic tutorial repository using hello world  (in Java)
+Java code:
+
+import java.util.*;
+
+Pulic Class hello-world{
+public static void main(System [] args){
+System.out.print("Hello World!");
+}
+}
